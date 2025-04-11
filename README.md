@@ -38,6 +38,10 @@ I'm a passionate software developer who loves building innovative solutions.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
+## GitHub Stats
+
+[![Dinuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supuni1868&show_icons=true&theme=radical)](https://github.com/Supuni1868)
+
 
 
 
