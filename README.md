@@ -43,5 +43,6 @@ I'm a passionate software developer who loves building innovative solutions.
 [![Dinuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supuni1868&show_icons=true&theme=radical)](https://github.com/Supuni1868)
 
 
-
+## Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supuni1868&layout=compact&theme=radical)](https://github.com/Supuni1868)
 
